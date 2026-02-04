@@ -62,6 +62,3 @@ SELECT
   min(streak_start_date) as streak_start_date
 FROM cte_5
 GROUP BY user_id
-
-
-
